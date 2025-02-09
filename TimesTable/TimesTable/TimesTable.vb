@@ -1,7 +1,8 @@
 ﻿'Angel Nava
 'Spring 2025
 'RCET2265
-'SayMyName
+'TimesTable
+'https://github.com/TheGoldenPorkchop/TimesTable
 Module TimesTable
 
     Sub Main()
